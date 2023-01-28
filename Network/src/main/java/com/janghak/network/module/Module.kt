@@ -13,6 +13,10 @@ object Module {
             view, "backgroundColor", Color.YELLOW,
             Color.RED, Color.GREEN
         )
+
+        /**
+         * TEST COMMIT TEST
+         */
         // duration of one color
         animator.duration = 500;
         animator.setEvaluator(ArgbEvaluator())
